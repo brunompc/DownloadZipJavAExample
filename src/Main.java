@@ -1,5 +1,3 @@
-package pt.ulusofona.aed.deisiRockstar2021;
-
 import javax.net.ssl.HttpsURLConnection;
 import java.io.*;
 import java.net.URL;
